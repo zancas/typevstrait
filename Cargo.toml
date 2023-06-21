@@ -1,5 +1,5 @@
 [package]
-name = "orphan_tutorial"
+name = "typevstrait"
 version = "0.1.0"
 edition = "2021"
 
